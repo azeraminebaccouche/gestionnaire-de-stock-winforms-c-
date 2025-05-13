@@ -17,4 +17,4 @@ Cette application permet de gérer l'inventaire des livres, les emprunts et les 
 - C#
 - Windows Forms
 - .NET Framework
-- SQL Server (pour la base de données) 
+- SQL Server (pour la base de données)
